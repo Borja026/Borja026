@@ -8,8 +8,8 @@
 
 - Desarrollador frontend y backend autodidacta y apasionado.
 - Actualmente estoy aprendiendo desarrollo web por mi cuenta.
-- Página web personal [link](https://borja.com.es)
 - Estoy buscando trabajo.
+<!-- - Página web personal [link](https://borja.com.es) -->
 
 <br><br>
 
